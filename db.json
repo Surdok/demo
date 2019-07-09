@@ -10,6 +10,6 @@
     { "id": 8, "name": "Khalid Ali", 			"cpr":"985121456", "mobile":"32548741", "location":"Muharraq" },
     { "id": 9, "name": "Zainab Abdulelah", 		"cpr":"201545612", "mobile":"32232231", "location":"Al-Hid" },
     { "id": 10, "name": "Abbas Qarooni", 		"cpr":"953221541", "mobile":"31121547", "location":"Salmabad" },
-    { "id": 11, "name": "Hussain Shehabi", 		"cpr":"985124612", "mobile":"36589514", "location":"Aali" },
+    { "id": 11, "name": "Hussain Shehabi", 		"cpr":"985124612", "mobile":"36589514", "location":"Aali" }
   ]
 }
