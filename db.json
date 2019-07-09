@@ -1,7 +1,7 @@
 {
   "employees": [
     { "id": 1, "name": "Ahmed Juma Al-Dolabi", 	"cpr":"950101152", "mobile":"37764550", "location":"Sharaf Street" },
-    { "id": 2, "name": "Ali Mirza Mahdi", 		"cpr":"901055414", "mobile":"36626556", "location":"Budayya" },    
+    { "id": 2, "name": "Ali Mirza Mahdi", 		"cpr":"901055414", "mobile":"36626556", "location":"Budayya" },
     { "id": 3, "name": "Mohammed Saeed", 		"cpr":"945215416", "mobile":"35541215", "location":"Saar" }
   ]
 }
